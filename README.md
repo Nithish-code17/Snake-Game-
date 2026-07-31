@@ -5,7 +5,7 @@ A classic *Snake Game* built using *Java* with basic graphics and keyboard contr
 ## 🎮 Game Description
 
 - Control a snake to eat food and grow longer.
-- Avoid hitting the walls or yourself.
+- Avoid hitting the walls or yourse
 - Simple UI with increasing difficulty as the snake grows.
 
 ## 🛠 Tech Stack
